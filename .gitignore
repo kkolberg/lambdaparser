@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+.venv
+.vscode
+.DS_Store
+
+**/*/.DS_Store
+.serverless
