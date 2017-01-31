@@ -95,3 +95,5 @@ ENV/
 
 **/*/.DS_Store
 .serverless
+**/*/.pyc
+.pyc
